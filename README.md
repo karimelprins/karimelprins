@@ -1,4 +1,4 @@
-# Hi, I'm Karim Ehab 👋
+# Hi, I'm Karim Ehab 
 
 Frontend Developer focused on building modern, responsive, and user-friendly web applications using React.js, Next.js, TypeScript, and modern frontend tools.
 
@@ -6,12 +6,12 @@ I build real-world frontend projects with clean UI, responsive layouts, API inte
 
 ## About Me
 
-- 🎓 Software Engineering Graduate
-- 💻 Frontend Developer focused on React.js, Next.js, and TypeScript
-- 📍 Based in Cairo, Egypt
-- 🚀 Building real-world frontend and full-stack portfolio projects
-- 🌱 Currently improving TypeScript, Next.js architecture, and advanced React patterns
-- 🎯 Preparing for Junior Frontend / React Developer opportunities
+-  Software Engineering Graduate
+-  Frontend Developer focused on React.js, Next.js, and TypeScript
+-  Based in Cairo, Egypt
+-  Building real-world frontend and full-stack portfolio projects
+-  Currently improving TypeScript, Next.js architecture, and advanced React patterns
+-  Preparing for Junior Frontend / React Developer opportunities
 
 ## Tech Stack
 
