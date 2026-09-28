@@ -1,139 +1,85 @@
-# Hi, I'm Karim Ehab 
+# Karim Ehab
 
-Frontend Developer focused on building modern, responsive, and user-friendly web applications using React.js, Next.js, TypeScript, and modern frontend tools.
+**Frontend / Next.js Developer** focused on building polished, responsive web applications with React, Next.js, TypeScript, API integrations, authentication, dashboards, booking flows, and production deployment.
 
-I build real-world frontend projects with clean UI, responsive layouts, API integration, and production-ready deployment.
+I enjoy turning business requirements into clean, usable products — from marketing websites and admin panels to data-driven dashboards and mobile experiences.
+
+## What I Build
+
+- Responsive business and company websites
+- React / Next.js web applications
+- Admin dashboards and CRUD interfaces
+- REST API integrations and authentication flows
+- Booking and form-based workflows
+- Arabic / English interfaces with RTL support
+- Database-backed applications
+- Production deployment and post-launch fixes
+
+## Core Stack
+
+**Frontend:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, Responsive UI  
+**Data & Backend Integration:** REST APIs, Supabase, Prisma, MySQL, SQL Server  
+**Auth & Product Features:** NextAuth, token-based auth, forms, validation, CRUD  
+**Tools:** Git, GitHub, Vercel, Framer Motion, Three.js / React Three Fiber
+
+## Selected Client / Private Work
+
+### Tilal Almustaqbal Real Estate
+A bilingual real-estate company platform built with Next.js and TypeScript, including public pages, an admin area, API routes, database-backed content, authentication, email integration, responsive UI, SEO files, and production deployment.
+
+**Stack:** Next.js · TypeScript · Tailwind CSS · Prisma · MySQL · NextAuth · Resend · Zod · Framer Motion
+
+> Private client codebase. Architecture and implementation details can be discussed when relevant.
+
+### Kemet Egypt
+A tourism booking platform with a Next.js frontend and ASP.NET Core backend, designed around tours, transfers, booking workflows, multilingual UX, admin operations, and external service integrations.
+
+**Stack:** Next.js · React · ASP.NET Core · SQL Server · REST APIs
+
+> Private project codebase. Selected implementation details can be discussed when relevant.
+
+## Featured Public Projects
+
+### FlowBoard AI — Full-Stack SaaS Dashboard
+A Next.js + TypeScript dashboard backed by Supabase with real CRUD operations, dynamic KPIs, revenue calculations, inventory risk tracking, search, filters, CSV export, and responsive UI.
+
+- **Live:** https://flowboard-ai-supabase.vercel.app/
+- **Code:** https://github.com/karimelprins/flowboard-ai-supabase
+
+### Egypt Trip & Ride — Travel Booking Marketplace
+A bilingual travel marketplace for Egypt tours, transfers, and packages with Arabic/English routes, RTL support, live price estimation, filters, WhatsApp booking, SEO, and PWA support.
+
+- **Live:** https://egypt-trip-and-ride.vercel.app/en
+- **Code:** https://github.com/karimelprins/egypt-trip-and-ride
+
+### FreshCart — React E-commerce App
+A React e-commerce application using a real REST API with authentication, protected routes, product browsing, cart, wishlist, checkout flow, validation, loading states, and responsive UI.
+
+- **Live:** https://ecommerce-route-react.vercel.app
+- **Code:** https://github.com/karimelprins/ecommerce-route-react
+
+### Silah — React Native / Expo Graduation Project
+A mobile application designed to support Alzheimer's patients and caregivers through reminders, memories, AI-assisted chat, profiles, notifications, media flows, and cognitive games.
+
+- **Code:** https://github.com/karimelprins/silah-frontend
+
+## Portfolio
+
+**3D Portfolio:** https://karim-3d-portfolio.vercel.app/
+
+Built with React, Vite, Three.js, React Three Fiber, GSAP, and Framer Motion.
 
 ## About Me
 
--  Software Engineering Graduate
--  Frontend Developer focused on React.js, Next.js, and TypeScript
--  Based in Cairo, Egypt
--  Building real-world frontend and full-stack portfolio projects
--  Currently improving TypeScript, Next.js architecture, and advanced React patterns
--  Preparing for Junior Frontend / React Developer opportunities
-
-## Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript ES6+
-- TypeScript
-- React.js
-- Next.js
-- React Router
-- Tailwind CSS
-- Supabase
-- REST API Integration
-- Responsive Web Design
-- Git & GitHub
-- Vercel Deployment
-- Three.js / React Three Fiber
-
-## Featured Projects
-
-### Karim 3D Portfolio — React Three Fiber Portfolio
-
-A responsive 3D personal portfolio built with React, Vite, Three.js, and React Three Fiber to showcase my projects, skills, contact links, and CV.
-
-**Features:**
-
-- Interactive 3D laptop desk scene
-- Floating project screens
-- Responsive layout for desktop, tablet, and mobile
-- Project showcase cards
-- Contact section with Gmail, LinkedIn, GitHub, and WhatsApp
-- CV download link
-- Deployed on Vercel
-
-**Tech Stack:** React, Vite, Three.js, React Three Fiber, Drei, GSAP, Framer Motion, CSS, Vercel
-
-- Live Demo: https://karim-3d-portfolio.vercel.app
-- GitHub Repo: https://github.com/karimelprins/karim-3d-portfolio
-
----
-
-### FlowBoard AI — Full-Stack SaaS Dashboard
-
-A full-stack SaaS-style dashboard built with Next.js, TypeScript, React, and Supabase. It uses real database tables for users, products, and orders, with dynamic KPIs and business insights.
-
-**Features:**
-
-- Real Supabase database integration
-- CRUD operations for users, products, and orders
-- Dynamic dashboard KPIs
-- Revenue calculation from paid orders
-- Stock risk tracking
-- Pending orders tracking
-- Search and filters
-- Details modal
-- CSV export
-- Loading and error states
-- AI-style business insights
-- Responsive dark UI
-
-**Tech Stack:** Next.js, TypeScript, React, Supabase, CSS, Vercel
-
-- Live Demo: https://flowboard-ai-supabase.vercel.app/
-- GitHub Repo: https://github.com/karimelprins/flowboard-ai-supabase
-
----
-
-### Egypt Trip & Ride — Next.js Travel Marketplace
-
-A professional travel booking marketplace for Egypt tours, private transfers, and travel packages with bilingual support and booking flow.
-
-**Features:**
-
-- English / Arabic routes
-- RTL Arabic UI
-- Smart booking form
-- Live price estimator
-- Interactive filters and sorting
-- WhatsApp booking flow
-- JSON-LD SEO structured data
-- PWA support
-- Fully responsive UI
-
-**Tech Stack:** Next.js, React, JavaScript, RTL, SEO, PWA, Vercel
-
-- Live Demo: https://egypt-trip-and-ride.vercel.app/en
-- GitHub Repo: https://github.com/karimelprins/egypt-trip-and-ride
-
----
-
-### FreshCart — React E-commerce App
-
-A responsive e-commerce application built with React.js, featuring product browsing, authentication flow, cart, wishlist, checkout, and API integration.
-
-**Features:**
-
-- Product listing
-- Product details
-- Categories
-- Cart
-- Wishlist
-- Checkout flow
-- Authentication flow
-- Responsive UI
-- API integration
-
-**Tech Stack:** React.js, JavaScript, React Router, API Integration, Responsive Design, Vercel
-
-- Live Demo: https://ecommerce-route-react.vercel.app
-- GitHub Repo: https://github.com/karimelprins/ecommerce-route-react
-
-## Current Focus
-
-- Improving React.js and Next.js skills
-- Practicing TypeScript in real projects
-- Building production-style frontend projects
-- Improving frontend architecture and clean code
-- Preparing for Junior Frontend / React Developer opportunities
+- Software Engineering graduate
+- Based in Cairo, Egypt
+- Open to freelance and remote React / Next.js work
+- Comfortable working from an existing codebase or building a project from scratch
+- Focused on clear communication, maintainable code, responsive UX, and reliable delivery
 
 ## Contact
 
-- Portfolio: https://karim-3d-portfolio.vercel.app
-- Email: [karimehabmohamedmohamed@gmail.com](mailto:karimehabmohamedmohamed@gmail.com)
-- LinkedIn: [www.linkedin.com/in/karim-ehab-4a10902a6](https://www.linkedin.com/in/karim-ehab-4a10902a6)
-- GitHub: [https://github.com/karimelprins](https://github.com/karimelprins)
+- **LinkedIn:** https://www.linkedin.com/in/karim-ehab-4a10902a6
+- **GitHub:** https://github.com/karimelprins
+- **Email:** karimehabmohamedmohamed@gmail.com
+- **Portfolio:** https://karim-3d-portfolio.vercel.app
