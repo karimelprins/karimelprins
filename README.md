@@ -1,46 +1,78 @@
 # Karim Ehab
 
-**Frontend / Next.js developer** building the site or product a company actually runs: public websites, booking, commerce, and the desk behind them.
+**Frontend / Next.js Developer** focused on building polished, responsive web applications with React, Next.js, TypeScript, API integrations, authentication, dashboards, booking flows, and production deployment.
 
-Portfolio: https://karimelprins.github.io
+I enjoy turning business requirements into clean, usable products — from marketing websites and admin panels to data-driven dashboards and mobile experiences.
 
-## Selected work
+## What I Build
 
-### Tilal Almustaqbal
-Bilingual real-estate company site. Delivered and in use.
+- Responsive business and company websites
+- React / Next.js web applications
+- Admin dashboards and CRUD interfaces
+- REST API integrations and authentication flows
+- Booking and form-based workflows
+- Arabic / English interfaces with RTL support
+- Database-backed applications
+- Production deployment and post-launch fixes
 
-**Live client website:** https://tilalalmustaqbal.com/en
+## Core Stack
+
+**Frontend:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, Responsive UI  
+**Data & Backend Integration:** REST APIs, Supabase, Prisma, MySQL, SQL Server  
+**Auth & Product Features:** NextAuth, token-based auth, forms, validation, CRUD  
+**Tools:** Git, GitHub, Vercel, Framer Motion, Three.js / React Three Fiber
+
+## Selected Client / Private Work
+
+### Tilal Almustaqbal Real Estate
+A bilingual real-estate company platform built with Next.js and TypeScript, including public pages, an admin area, API routes, database-backed content, authentication, email integration, responsive UI, SEO files, and production deployment.
+
+**Stack:** Next.js · TypeScript · Tailwind CSS · Prisma · MySQL · NextAuth · Resend · Zod · Framer Motion
+
+> Private client codebase. Architecture and implementation details can be discussed when relevant.
 
 ### Kemet Egypt
-Tourism booking product. Tours, transfers, admin, Arabic and English. The repository stays private.
+A tourism booking platform with a Next.js frontend and ASP.NET Core backend, designed around tours, transfers, booking workflows, multilingual UX, admin operations, and external service integrations.
 
-**Product:** https://kemet-egypt-seven.vercel.app
+**Stack:** Next.js · React · ASP.NET Core · SQL Server · REST APIs
 
-### Verde
-Owned grocery storefront. Catalog, cart, checkout, and an order desk.
+> Private project codebase. Selected implementation details can be discussed when relevant.
 
-**Live:** https://karimelprins.github.io/verde/
-**Code:** https://github.com/karimelprins/verde
+## Featured Public Projects
 
-### Sable
-Company desk. Each company keeps its own members, clients, and tasks.
+### FlowBoard AI — Full-Stack SaaS Dashboard
+A Next.js + TypeScript dashboard backed by Supabase with real CRUD operations, dynamic KPIs, revenue calculations, inventory risk tracking, search, filters, CSV export, and responsive UI.
 
-**Live:** https://karimelprins.github.io/sable/
-**Code:** https://github.com/karimelprins/sable
+- **Live:** https://flowboard-ai-supabase.vercel.app/
+- **Code:** https://github.com/karimelprins/flowboard-ai-supabase
 
-### Silah · صلة
-Graduation mobile app for Alzheimer's care. My part was the mobile app. The public tour is on the portfolio.
+### FreshCart — React E-commerce App
+A React e-commerce application using a real REST API with authentication, protected routes, product browsing, cart, wishlist, checkout flow, validation, loading states, and responsive UI.
 
-**Tour:** https://karimelprins.github.io/work/silah/
-**Code:** https://github.com/karimelprins/silah-frontend
+- **Live:** https://ecommerce-route-react.vercel.app
+- **Code:** https://github.com/karimelprins/ecommerce-route-react
 
-## Stack
+## Also
 
-React, Next.js, TypeScript, Tailwind-ready CSS, Supabase, Prisma, MySQL, SQL Server, ASP.NET Core, React Native, Expo.
+**Silah** — React Native / Expo graduation project (frontend) for Alzheimer's patients and caregivers. [Code](https://github.com/karimelprins/silah-frontend)
+
+## Portfolio
+
+**3D Portfolio:** https://karim-3d-portfolio.vercel.app/
+
+Built with React, Vite, Three.js, React Three Fiber, GSAP, and Framer Motion.
+
+## About Me
+
+- Software Engineering graduate
+- Based in Cairo, Egypt
+- Open to freelance and remote React / Next.js work
+- Comfortable working from an existing codebase or building a project from scratch
+- Focused on clear communication, maintainable code, responsive UX, and reliable delivery
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/karim-ehab-4a10902a6
-- GitHub: https://github.com/karimelprins
-- Email: karimehabmohamedmohamed@gmail.com
-- Based in Cairo. Open to freelance and remote work.
+- **LinkedIn:** https://www.linkedin.com/in/karim-ehab-4a10902a6
+- **GitHub:** https://github.com/karimelprins
+- **Email:** karimehabmohamedmohamed@gmail.com
+- **Portfolio:** https://karim-3d-portfolio.vercel.app
