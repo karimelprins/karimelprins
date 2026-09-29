@@ -46,22 +46,15 @@ A Next.js + TypeScript dashboard backed by Supabase with real CRUD operations, d
 - **Live:** https://flowboard-ai-supabase.vercel.app/
 - **Code:** https://github.com/karimelprins/flowboard-ai-supabase
 
-### Egypt Trip & Ride — Travel Booking Marketplace
-A bilingual travel marketplace for Egypt tours, transfers, and packages with Arabic/English routes, RTL support, live price estimation, filters, WhatsApp booking, SEO, and PWA support.
-
-- **Live:** https://egypt-trip-and-ride.vercel.app/en
-- **Code:** https://github.com/karimelprins/egypt-trip-and-ride
-
 ### FreshCart — React E-commerce App
 A React e-commerce application using a real REST API with authentication, protected routes, product browsing, cart, wishlist, checkout flow, validation, loading states, and responsive UI.
 
 - **Live:** https://ecommerce-route-react.vercel.app
 - **Code:** https://github.com/karimelprins/ecommerce-route-react
 
-### Silah — React Native / Expo Graduation Project
-A mobile application designed to support Alzheimer's patients and caregivers through reminders, memories, AI-assisted chat, profiles, notifications, media flows, and cognitive games.
+## Also
 
-- **Code:** https://github.com/karimelprins/silah-frontend
+**Silah** — React Native / Expo graduation project (frontend) for Alzheimer's patients and caregivers. [Code](https://github.com/karimelprins/silah-frontend)
 
 ## Portfolio
 
